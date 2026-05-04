@@ -1,0 +1,28 @@
+# Credenciais (NUNCA commitar)
+.env
+.env.local
+.env.*
+*.env
+*.env.bak
+*.env.bak2
+google-oauth.env
+credentials.json
+client_secret*.json
+token.json
+*.pem
+*.key
+
+# Backups
+*.bak
+*.bak2
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
