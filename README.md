@@ -24,7 +24,7 @@ Cole o seguinte prompt no seu Claude Code:
 
 ```
 Quero instalar a skill "sheets" deste repositório:
-https://github.com/isaiasvrb-creator/skill-sheets
+https://github.com/ztxdigital/skill-sheets
 
 Faz pra mim, passo a passo, parando pra confirmar quando precisar de input:
 
@@ -51,7 +51,7 @@ Importante: a credencial Google é minha. Não compartilho com ninguém.
 
 ```bash
 # 1. Clonar
-git clone https://github.com/isaiasvrb-creator/skill-sheets.git ~/.claude/skills/sheets
+git clone https://github.com/ztxdigital/skill-sheets.git ~/.claude/skills/sheets
 
 # 2. Instalar libs
 pip3 install google-api-python-client google-auth google-auth-oauthlib
